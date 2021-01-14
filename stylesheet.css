@@ -22,15 +22,15 @@ ul li {
 ul li a {
   position: relative; 
   display: inline-block;
-  width: 60px;
+  width: 80px;
   height: 40px;
   text-align: center;
   text-decoration:none;
   line-height: 40px;
   background: #262626;
   border-radius: 0%;
-  font-size: 18px;
-  color: #666;
+  font-size: 25px;
+  color: #333;
   transition: .5s;
 }
 
