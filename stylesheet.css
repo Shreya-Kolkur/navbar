@@ -22,14 +22,14 @@ ul li {
 ul li a {
   position: relative; 
   display: inline-block;
-  width: 80px;
+  width: 100px;
   height: 40px;
   text-align: center;
   text-decoration:none;
   line-height: 40px;
   background: #262626;
   border-radius: 0%;
-  font-size: 28px;
+  font-size: 30px;
   color: #333;
   transition: .5s;
 }
